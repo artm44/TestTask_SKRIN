@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=ArtemsHonorX16;Database=Internet-store;Trusted_Connection=True;TrustServerCertificate=True"
+  },
+  "PathToXML": "D:\\Работа\\СКРИН\\Тестовое задание\\orders.xml"
+}
