@@ -57,3 +57,4 @@ D:\Работа\СКРИН\Тестовое задание\bin\Debug\net8.0\Micr
 D:\Работа\СКРИН\Тестовое задание\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 D:\Работа\СКРИН\Тестовое задание\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 D:\Работа\СКРИН\Тестовое задание\bin\Debug\net8.0\config.json
+D:\Работа\СКРИН\Тестовое задание\obj\Debug\net8.0\Тестовое задание.sourcelink.json
